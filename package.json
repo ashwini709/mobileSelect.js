@@ -1,0 +1,57 @@
+{
+  "_from": "mobile-select",
+  "_id": "mobile-select@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-bSlvYV5Dbq8P9o1p8XOqQCd/j3o=",
+  "_location": "/mobile-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mobile-select",
+    "name": "mobile-select",
+    "escapedName": "mobile-select",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mobile-select/-/mobile-select-1.0.7.tgz",
+  "_shasum": "6d296f615e436eaf0ff68d69f173aa40277f8f7a",
+  "_spec": "mobile-select",
+  "_where": "/Users/Ashu/Documents/work/ts_ember",
+  "author": {
+    "name": "onlyhom"
+  },
+  "bugs": {
+    "url": "https://github.com/onlyhom/mobileSelect.js/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A multi-function mobile phone scrolling selector, support single to multi-select, support multi-level cascade, provide custom callback function, provide update function redraw, relocation function, compatible pc drag and so on.",
+  "devDependencies": {},
+  "homepage": "https://github.com/onlyhom/mobileSelect.js",
+  "keywords": [
+    "mobile-selector",
+    "selector",
+    "mobile-select",
+    "mobile-picker",
+    "picker",
+    "select-component",
+    "picker-component",
+    "mobile-component",
+    "cascade",
+    "cascade-picker"
+  ],
+  "license": "MIT",
+  "main": "mobile-select.js",
+  "name": "mobile-select",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
